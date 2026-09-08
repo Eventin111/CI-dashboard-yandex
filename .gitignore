@@ -1,0 +1,7 @@
+.DS_Store
+.presentation-build/
+tmp/
+~$*.xlsx
+
+# Черновая версия презентации
+outputs/CI_dashboard_concept.pptx
